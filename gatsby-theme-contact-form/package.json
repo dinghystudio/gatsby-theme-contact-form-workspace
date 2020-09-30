@@ -1,0 +1,21 @@
+{
+  "name": "@dinghystudio/gatsby-theme-contact-form",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Daniel J. Becker <daniel@dinghy.studio>",
+  "peerDependencies": {
+    "gatsby": "^2.24.58",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:dinghystudio/gatsby-theme-contact-form-workspace.git",
+    "directory": "gatsby-theme-contact-form"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@dinghystudio/gatsby-theme-contact-form-setup",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn workspace example build"
+  },
+  "workspaces": [
+    "gatsby-theme-contact-form",
+    "site"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "site",
+  "version": "0.1.0",
+  "author": "Daniel J. Becker <daniel@dinghy.studio>",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.24.58",
+    "@dinghystudio/gatsby-theme-contact-form": "*",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
